@@ -8,7 +8,7 @@
       <p><b>地址：北京市海淀区西土城路5号北京邮电大学，新科研楼</b></p>
     </td>
     <td width="25%">
-      <img src="/sf.jpg" width="100%">      % 插入证件照代码
+      <img src="/sf.jpg" width="100%">
     </td>
   </tr>
 </table>
