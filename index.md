@@ -7,7 +7,7 @@
       <p><b>邮箱：547384994@qq.com</b></p>
       <p><b>地址：北京市海淀区西土城路5号北京邮电大学，新科研楼</b></p>
     </td>
-    <td width="25%">
+    <td width="30%">
       <img src="/sf.jpg" width="100%">
     </td>
   </tr>
